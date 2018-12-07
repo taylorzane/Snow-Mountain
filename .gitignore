@@ -1,0 +1,13 @@
+.ReAuth.cfg
+BotaniaVars.dat
+journeymap/
+logs/
+saves/
+screenshots/
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+knownkeys.txt
+crafttweaker.log
+resourcepacks/
