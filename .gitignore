@@ -11,3 +11,6 @@ usernamecache.json
 knownkeys.txt
 crafttweaker.log
 resourcepacks/
+optionsof.txt
+.curseclient
+OptiFine*.jar
