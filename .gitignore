@@ -1,13 +1,22 @@
-.ReAuth.cfg
-BotaniaVars.dat
+# Directories
+.mixin.out/
+bendspacks/
+crash-reports/
 journeymap/
 logs/
+resourcepacks/
 saves/
 screenshots/
+valkyrielib/
+
+# Files
+*.log
+.ReAuth.cfg
+BotaniaVars.dat
+knownkeys.txt
 minecraftinstance.json
+OptiFine*.jar
 options.txt
+optionsof.txt
 usercache.json
 usernamecache.json
-knownkeys.txt
-crafttweaker.log
-resourcepacks/
