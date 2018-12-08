@@ -829,5 +829,21 @@
  "shaped_Dark Oak Wood Planks": true,
  "shaped_Dark Oak Wood Planks_1": true,
  "shaped_Sticky Piston": true,
- "shaped_Lead": true
+ "shaped_Lead": true,
+ "shapeless_Adamantine Item Casing": true,
+ "shapeless_Adamantine Plate": true,
+ "shapeless_Antimony Item Casing": true,
+ "shapeless_Antimony Plate": true,
+ "shapeless_Bismuth Item Casing": true,
+ "shapeless_Bismuth Plate": true,
+ "shapeless_Cold-Iron Item Casing": true,
+ "shapeless_Cold-Iron Plate": true,
+ "shapeless_Platinum Item Casing": true,
+ "shapeless_Platinum Plate": true,
+ "shapeless_Nickel Item Casing": true,
+ "shapeless_Nickel Plate": true,
+ "shapeless_Star-Steel Item Casing": true,
+ "shapeless_Star-Steel Plate": true,
+ "shapeless_Zinc Item Casing": true,
+ "shapeless_Zinc Plate": true
 }
